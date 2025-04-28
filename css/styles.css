@@ -1,0 +1,23 @@
+/* RESETS */
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* TYPOGRAPHY */
+
+body {
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+}
+
+/*HERO SECTION*/
+
+main
