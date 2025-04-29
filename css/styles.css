@@ -148,8 +148,8 @@ li {
 }
 
 .cards-container img {
-    border-radius: 25%;
-    border: 2px solid #1F2937;
+    border-radius: 2%;
+    border: 3px solid #3882F6;
 }
 
 .cards-container p {
@@ -170,3 +170,39 @@ li {
 
 /* Testimonial Section */
 
+.section-testimonial {
+    width: 100%;
+    height: 400px;
+    background-color: #E5E7EB;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.testimonial-container {
+    width: 55%;
+    display: flex;
+    flex-direction: column;
+    height: 60%;
+    justify-content: space-evenly;
+}
+
+.quote-owner {
+    display: flex;
+    justify-content: center;
+   
+    
+}
+
+.testimonial-text {
+    font-size: 32px;
+    font-weight: 200;
+    font-style: italic;
+    color: #1F2937;
+}
+
+.quote-owner-name {
+    font-weight: 700;
+    font-size: 20px;
+}

@@ -9,6 +9,10 @@ PART 2
 Built the trips section. Used various techniques for Flex box, HTML and css
 
 
+PART 3
+
+Built the testimonial section using flex box, HTML and CSS
+
 
 
 
