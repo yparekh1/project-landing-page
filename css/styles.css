@@ -116,7 +116,7 @@ li {
 
 .section-cards {
     width: 100%;
-    height: 1000px;
+    height: 900px;
     display: flex;
     justify-content: center;
 }
@@ -127,7 +127,7 @@ li {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    row-gap: 100px;
+    row-gap: 85px;
 }
 
 .section-cards-container h2 {
@@ -251,3 +251,17 @@ li {
    border: 1px solid #F9FAF8;
    
 }
+
+/* Footer section */
+
+.footer {
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
+    color: #F9FAF8;
+    font-weight: 200;
+}
+

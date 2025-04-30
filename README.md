@@ -18,6 +18,10 @@ PART 4
 
 Built the call to action section using the same things as above
 
+PART 5
+
+Built the final footer section
+
 
 
 
