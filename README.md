@@ -14,6 +14,11 @@ PART 3
 Built the testimonial section using flex box, HTML and CSS
 
 
+PART 4 
+
+Built the call to action section using the same things as above
+
+
 
 
 //CREDITS FOR IMAGES AND VIDEOS
