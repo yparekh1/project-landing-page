@@ -33,5 +33,10 @@ Thank you Pixabay for providing the dominican-republic.jpg file
 https://www.pexels.com/photo/view-of-palm-trees-on-beach-247447/
 Thank you Craig Adderley for providing the florida.jpg file
 https://www.pexels.com/photo/photo-of-castle-during-daytime-3411135/
-
+Thank you Bagus Pangetsu for providing the japan.jpg file
+https://www.pexels.com/photo/close-up-photography-of-cherry-blossom-tree-1440476/
+Thank you Stijn dijkstra for providing bali.jpg
+https://www.pexels.com/photo/photo-of-person-standing-on-a-famous-temple-2659475/
+Thank you Manuel Joseph for providing the china.jpg file
+https://www.pexels.com/photo/aerial-photography-of-great-wall-of-china-19872/
 
